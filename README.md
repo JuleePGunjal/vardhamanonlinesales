@@ -1,2 +1,2 @@
-# vardhamanonlinesales
-vardhaman online cosmetic sales
+# vardhamansales
+cosmetic shopping application
